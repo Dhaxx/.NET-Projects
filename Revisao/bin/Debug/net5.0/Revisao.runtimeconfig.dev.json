@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Geiza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Geiza\\.nuget\\packages"
+    ]
+  }
+}
